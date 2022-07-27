@@ -8,4 +8,6 @@
 - Link: https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset?datasetId=429085&sortBy=voteCount
 - Code: BERT_Model_Sentiment_Analysis_Tutorial.ipynb 
 
-The code create a tflite model using the Kaggle dataset. The new model generated must be use in Android Studio to test.
+# Google Colab
+
+The BERT_Model_Sentiment_Analysis_Tutorial.ipynb file create the tflite model (model.tflite) using the Kaggle dataset and MobilBert model to train and test. The new model generated must be used in Android Studio to test.
